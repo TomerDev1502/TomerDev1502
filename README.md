@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomer Avrahami
 
-🎓 Forth-year Computer Science student at Jerusalem Multidisciplinary College (HAC), graduating October 2026  
+🎓 Forth-year Computer Science student at Jerusalem Multidisciplinary College (HAC), graduating March 2026  
 🧪 Passionate about software engineering, QA automation, and solving complex problems  
 💡 Always eager to learn, collaborate, and turn ideas into reliable code  
 
